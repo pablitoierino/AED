@@ -9,3 +9,4 @@ A, B y S Pertenecen a numeros enteros.
 ## **Refinamiento del problema:** 
 Se solicita al usuario 2 variables enteras, las almacenamos, realizamos la suma y devolvemos el resultado.
 ![ipo suma.png] (https://github.com/pablitoierino/AED/blob/master/01%20suma/ipo%20Suma.jpg)
+![ilustrativo.png] (https://github.com/pablitoierino/AED/blob/master/01%20suma/ilustrativo.jpg)
